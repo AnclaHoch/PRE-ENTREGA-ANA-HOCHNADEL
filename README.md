@@ -10,6 +10,6 @@ Esta página web se desarrolló para una casa de materiales eléctricos llamada 
 La página web todavia está en desarrollo
 
 ## Autor
-* **Nombre:** Ana Clara Hochnadel *
-* **GitHub:** https://github.com/AnclaHoch *
-* **LinkedIn:** https://www.linkedin.com/in/ahochnadel/ *
+* **Nombre:** Ana Clara Hochnadel 
+* **GitHub:** https://github.com/AnclaHoch 
+* **LinkedIn:** https://www.linkedin.com/in/ahochnadel/ 
